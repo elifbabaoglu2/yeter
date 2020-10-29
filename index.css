@@ -54,7 +54,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    height: 600px;
+    height: 800px;
     width: 100%;
     font-size: x-large;
   }
@@ -62,7 +62,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    height: 750px;
+    height: 950px;
     width: 100%;
     font-size: x-large;
   }
