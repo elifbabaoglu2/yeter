@@ -1,1 +1,68 @@
 /* Put your style information here! */
+/* Put your style information here! */
+body {
+    background-color: pink;
+      margin:0; padding:0;
+      overflow-x:hidden;
+      height:100%;
+      width:100%;
+      font-family: 'Lato', Helvetica, arial, sans-serif;
+      font-weight: 300;
+      font-size: 20px;
+      line-height: 1.45;
+      color: #eee;
+      color: rgba(255,255,255,.85);
+      text-align: center;
+  }
+  #container {
+      padding-top: 50px;
+  }
+  .center1 {
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+  }
+
+  .center2 {
+    margin: auto;
+    width: 90%;
+    border: 3px solid white;
+    padding: 10px;
+  }
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  .par {
+    margin: auto;
+    width: 90%;
+    padding: 2px;
+    margin-top: 20px;
+  }
+
+  .two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 600px;
+    width: 100%;
+    font-size: x-large;
+  }
+  .twoo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 750px;
+    width: 100%;
+    font-size: x-large;
+  }
